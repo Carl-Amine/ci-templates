@@ -1,2 +1,1 @@
-# ci-templates
-Shared reusable GitHub Actions workflows for ci-review-service-governed repos.
+# wk9x-assets
